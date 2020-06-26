@@ -1,7 +1,7 @@
 # Caio_Lofrano_Portfolio
 My Bio
-# Caio Lofrano
-[Projects](#projects) | [Experience](#experience) | [Blog](https://medium.com/@jessicabarclay.net) | [LinkedIn](https://www.linkedin.com/in/jessica-barclay-bab35b10b/) | [Github](https://github.com/JessicaBarclay)
+# Caio Lofrano 
+[Projects](#projects) | [Experience](#experience) | [Blog](https://medium.com/@caio.lofrano) | [LinkedIn](https://www.linkedin.com/in/caiolofrano/) | [Github](https://github.com/Lofrano)
 
 ![](https://i.imgur.com/sNJAsje.png)
 
