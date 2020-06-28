@@ -1,6 +1,8 @@
 # Caio Lofrano 
 Grown up in Taipei, I am a Brazilian who has graduated from both a Taiwanese high school and university. 
+
 Since my 3rd academic year I have been involved in the startup scene in Taipei, and since then I try to create meaningful connections that later can become a project. 
+
 Back in 2018, I had Interned at Whoscall and that gave me an eye opening experience, that would further bring me into the digital world.
 Now I make products and ideas come true along with team building and cooperation.
 
