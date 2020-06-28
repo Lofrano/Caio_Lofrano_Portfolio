@@ -1,6 +1,10 @@
 # Caio Lofrano 
-(My Bio Here)
-[Projects](#projects) | [Experience](#experience) | [Blog](https://medium.com/@caio.lofrano) | [LinkedIn](https://www.linkedin.com/in/caiolofrano/) | [Github](https://github.com/Lofrano)
+Grown up in Taipei, I am a Brazilian who has graduated in both a Taiwanese high school and university. 
+Since my 3rd academic year I have been into the startup environment in Taipei. 
+Back in 2018, I had Interned at Whoscall and that gave me an eye opening experience, that would further bring me into the digital world.
+Now I make products and ideas come true, with 
+
+| [Blog](https://medium.com/@caio.lofrano) | [LinkedIn](https://www.linkedin.com/in/caiolofrano/) | [Github](https://github.com/Lofrano)
 
 ![](https://i.imgur.com/sNJAsje.png)
 
@@ -45,13 +49,12 @@
 - Miro
 
 
-### Web project
-- Webflow link
+### [Web project] (https://tentenrevamp-2fc900fa08079bff1fa5805807.webflow.io/)
 
 
 ### Article & Blog
-- 3~4 article
-
+- E-Commerce in South Korea vs Taiwan. (https://share.tenten.co/e-commerce-in-south-korea-vs-taiwan-683eeeaf9b4)
+- Kickstarter Ultimate Guide — 8 tips you must know before starting a crowdfunding campaign. (https://share.tenten.co/kickstarter-ultimate-guide-8-tips-you-must-know-before-starting-a-crowdfunding-campaign-f88178576ee?source)
 
 ### Keynote
 - https://pasteapp.com/p/9o0Wv3w4h0z?view=jWJxBmnBB9I
