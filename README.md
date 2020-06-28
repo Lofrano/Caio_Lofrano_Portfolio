@@ -9,7 +9,7 @@ Now I make products and ideas come true through team building and cooperation.
 [Blog](https://medium.com/@caio.lofrano) | [LinkedIn](https://www.linkedin.com/in/caiolofrano/) | [Github](https://github.com/Lofrano)
 
 <p align="center">
-  <img width="500" height="500" src="https://i.imgur.com/KErrD5q.jpg">
+  <img width="500" height="500" src="https://i.imgur.com/2WYPEJY.jpg">
 </p>
 
 ### Work experiences
