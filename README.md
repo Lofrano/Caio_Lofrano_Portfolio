@@ -8,7 +8,7 @@ Now I make products and ideas come true through team building and cooperation.
 
 [Blog](https://medium.com/@caio.lofrano) | [LinkedIn](https://www.linkedin.com/in/caiolofrano/) | [Github](https://github.com/Lofrano)
 
-![](https://i.imgur.com/fBYTbzO.jpg?1)
+![](https://i.imgur.com/YzyhRYQ.jpg?1)
 
 ### Work experiences
 - Whoscall (2018/1~2018/8)
