@@ -8,10 +8,15 @@
 - Whoscall (2018/1~2018/8)
 - Tenten (2019/4~2020)
 
+### Methodologies
+- Agile
+- SCRUM
+
 ### Marketing expertise
 - Social media
-- Google AD
-- inbound marketing
+- Google Ads
+- Inbound marketing
+- Marketing Automation
 
 ### Marketing Tools
 - HubSpot
@@ -28,6 +33,7 @@
 - Zeplin
 - Canva
 - Sketch
+- Spark AR
 
 ### Production Tools
 - Trello
@@ -56,5 +62,5 @@
 ### Client experience
 - FET telecom
 - Cathay Bank
-- ambaHotel
+- amba Hotels
 - BESV Premium Electric Bikes
