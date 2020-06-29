@@ -13,8 +13,8 @@ Now I make products and ideas come true through team building and cooperation.
 </p>
 
 ### Work experiences
-- Whoscall (2018/1~2018/8)
 - Tenten (2019/4~2020)
+- Whoscall (2018/1~2018/8)
 
 ### Methodologies
 - Agile
