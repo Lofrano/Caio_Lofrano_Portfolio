@@ -26,7 +26,7 @@ Now I make products and ideas come true through team building and cooperation.
 - Inbound marketing
 - Marketing Automation
 
-### Marketing Tools
+### Marketing and Web Development Tools
 - HubSpot
 - Webflow
 - Wordpress
@@ -43,7 +43,7 @@ Now I make products and ideas come true through team building and cooperation.
 - Sketch
 - Spark AR
 
-### Production Tools
+### Collaboration Tools
 - Trello
 - Jira
 - Slack
