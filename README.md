@@ -1,7 +1,7 @@
 # Caio Lofrano 
 Grown up in Taipei, I am a Brazilian who has graduated from both a Taiwanese high school and university. 
 
-Since my 3rd academic year I have been involved in the startup scene in Taipei, and since then I try to create meaningful connections that later can become a project. 
+Since my 3rd academic year I have been involved in the startup scene in Taipei, and since then I always try to create connections that later can evolve into a meaningful project. 
 
 Back in 2018, I had Interned at Whoscall and that gave me an eye opening experience, that would further bring me into the digital world.
 Now I make products and ideas come true through team building and cooperation.
@@ -13,11 +13,11 @@ Now I make products and ideas come true through team building and cooperation.
 </p>
 
 ### Work experiences
-- 1TM (2020/07~Present)
-- Tenten (2019/4~2020)
-- Whoscall (2018/1~2018/8)
+- Product Executive at 1TM (2020/07~Present)
+- Marketing Associate at Tenten Creative Agency (2019/4~2020)
+- Product Assistant Intern at Whoscall (2018/1~2018/8)
 
-### Methodologies
+### Product Development Methodologies
 - Agile
 - SCRUM
 
