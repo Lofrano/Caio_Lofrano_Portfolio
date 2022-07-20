@@ -1,10 +1,10 @@
 # Caio Lofrano 
-Grown up in Taipei, I am a Brazilian who has graduated from both a Taiwanese high school and university. 
+Grown up in Taipei, I am a Brazilian who has graduated from both a Taiwanese high school and university and now a Web3 Community Manager ready to bring up to the masses what's to come next. 
 
-Since my 3rd academic year I have been involved in the startup scene in Taipei, and since then I always try to create connections that later can evolve into a meaningful project. 
+Since my 3rd academic year I have been involved in the startup scene in Taipei, and since then I always try to create meaningful connections that later can evolve into a greater good. 
 
-Back in 2018, I had Interned at Whoscall and that gave me an eye opening experience, that would further bring me into the digital world.
-Now I make products and ideas come true through team building and cooperation.
+Back in 2018, I had Interned at Whoscall and that gave me an eye opening experience into the start up space, that would further bring me into the digital world.
+Now I make products and ideas come true, through community building and collaboration in the web3 space.
 
 [Blog](https://medium.com/@caio.lofrano) | [LinkedIn](https://www.linkedin.com/in/caiolofrano/) | [Github](https://github.com/Lofrano)
 
@@ -13,7 +13,8 @@ Now I make products and ideas come true through team building and cooperation.
 </p>
 
 ### Work experiences
-- Product Executive at 1TM (2020/07~Present)
+- Web3 Community Manager at HTC VIVE Arts, BD under the VIVE ecosystem
+- Product Executive at 1TM (2020/07~2022/01)
 - Marketing Associate at Tenten Creative Agency (2019/4~2020)
 - Product Assistant Intern at Whoscall (2018/1~2018/8)
 
